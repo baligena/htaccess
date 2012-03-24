@@ -1,1 +1,7 @@
-test
+htaccess python script, Clean URL
+
+I enjoy the clean URL when it looks like http://baligena.com/home/page
+
+However every time I create a new app I have to re-edit/create a htaccess file.  This is too much work and remembering.  Below is a python script for windows and linux that once ran inside the root folder of your site it will create an htaccess file to make that clean URL you always wanted.   
+
+Warning!  You may need to configure apache and php for the htaccess file to work.  Go to http://max-michaels.blogspot.com/2011/07/working-with-htaccess.html for instructions.
